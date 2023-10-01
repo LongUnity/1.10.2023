@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\bin\Debug\Baitaplon.exe.config
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\bin\Debug\Baitaplon.exe
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\bin\Debug\Baitaplon.pdb
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\obj\Debug\Baitaplon.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\obj\Debug\Baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\obj\Debug\Baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\obj\Debug\Baitaplon.exe
+C:\Users\May1\source\repos\OOP_Buoi8\Baitaplon\obj\Debug\Baitaplon.pdb
